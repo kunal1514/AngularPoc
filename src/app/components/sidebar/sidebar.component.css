@@ -1,0 +1,12 @@
+.sidebar {
+    min-height: 90vh;
+}
+
+.active-screens {
+    min-height: 30vh;
+}
+
+a {
+    font-weight: 500;
+}
+
